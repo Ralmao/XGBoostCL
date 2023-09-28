@@ -1,4 +1,4 @@
-# XGBoostCL
+# XGBoostCL-Gradio
 XGBoost (eXtreme Gradient Boosting) is a supervised machine learning algorithm that is used for both classification and regression tasks. It is an ensemble learning algorithm, which means that it combines the predictions of multiple weak learners to produce a more accurate prediction.
 XGBoost works by building a sequence of decision trees, where each tree is trained to correct the errors of the previous tree. The trees are trained sequentially, and each tree learns from the mistakes of the previous tree. This process continues until the model reaches a desired level of accuracy.
 
